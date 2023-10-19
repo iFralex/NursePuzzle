@@ -1,0 +1,266 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/menu\u0300.unity"
+    guid: bfb515a200a034429903b7d18368edc9
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 14.unity
+    guid: fc7f87d2db5404bc88a70ab965f53275
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 6.unity
+    guid: 002a393a9a0694ade80c4ecea62e88e1
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 5.unity
+    guid: dd2440d7500754cac8f82ec33e814bef
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 13.unity
+    guid: 10261bc4fc8d4463797d109749c504ab
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 1.unity
+    guid: d5e269f99d14040aa81e9f1e6db552d8
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 2.unity
+    guid: 2ff06a04242ae4d58965254f1ea2f555
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 7.unity
+    guid: e5da7e7e5e3b646218ef47a33d176d68
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 4.unity
+    guid: f86f7a4dce8fd49379e20b655db6bee8
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 9.unity
+    guid: 4a54254aac2114bdaad403dfe0f61ee0
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 10.unity
+    guid: 7a553eb92f9b44169bfc04839d648b8d
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 11.unity
+    guid: e33b0dae08af040749f834e0fc281877
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 12.unity
+    guid: f17fd1bbba5b84219bd4ed9839eccd0d
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 8.unity
+    guid: 988535f6bad6d4377806183b9d000da9
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 3.unity
+    guid: 6163c22cfd8724db680f959279a58e26
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 15.unity
+    guid: d6ac72ff30c354f24826a56726870f98
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 16.unity
+    guid: ee0123d0234c64e25a6474ed34886d6c
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 17.unity
+    guid: 405a8598dc69a4a84889d12a623aaa69
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 18.unity
+    guid: e6e853c9126184819934a2a9b2b2f783
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 19.unity
+    guid: 33408124a69d14afcab8fa46b9ef2691
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 20.unity
+    guid: db5fa4a51c49f43298f7f4048abc4ed5
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 21.unity
+    guid: d8a319f073f4e4658ac84e45133b3aca
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 22.unity
+    guid: 1cfd5c8401b294855884a0c83dce2085
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 23.unity
+    guid: 0e3aa396241cc4941a7613fcaf7f7c0e
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 24.unity
+    guid: e631359fc0e21461eb7e137bb6e4d444
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 25.unity
+    guid: 08690aa1320bf4361a37ddbfa5f390b5
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 26.unity
+    guid: 58e01ea7a337d4c448727050b46b1785
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 27.unity
+    guid: b7e58fd05121c497083a70efeb3b9f52
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 28.unity
+    guid: b8a80d6c91e274209a98cbc488d7cfb9
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 29.unity
+    guid: 75407574172a74c1e92fc946d855f166
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 30.unity
+    guid: 00cf6f46f4a64489eae18891c5b812d6
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 31.unity
+    guid: 8c5649bef55494042bdb429f87d8c960
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 32.unity
+    guid: d5bfcb1ebe3fd424088622fc331235a5
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 33.unity
+    guid: a79a70a4f545349719b11e007c0058a3
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 34.unity
+    guid: 116a53da3dc9e4848b06ae89e73fd506
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 35.unity
+    guid: 167aaf18e952b4549a9a4b1ea7072b86
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 36.unity
+    guid: fb5af7edb461948d5849580d8eea32fd
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 37.unity
+    guid: 0e9bf28d81de9491384d6cb319277fa6
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 38.unity
+    guid: b7f96394a99cf4c2eb6fae67923b35b6
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 39.unity
+    guid: b2eb3cc3b7e3a408bac27a4f57638e80
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 40.unity
+    guid: d98861689d2c64464818d42e68707663
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 41.unity
+    guid: 25607061c6f194fd3b7a2c852ca1fb1c
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 42.unity
+    guid: 02bd46d1a3e554a2c92d315eccd1e4d7
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 43.unity
+    guid: 2ae80e227619545148df884c85db2cc2
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 44.unity
+    guid: 7519424cd11aa4acb824bf01d63c704d
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 45.unity
+    guid: 3a432e50d7dcf4e53978a7235aeef8f3
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 46.unity
+    guid: 7acc66bd7a6b54ac7a0e815e17e8fa67
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 47.unity
+    guid: 49f635898b676474eb68c4cfc165f6d1
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 48.unity
+    guid: 498a6bf88a5984cf39ac6fc291e194c2
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 49.unity
+    guid: 00c746f4cb66d433ba36795218d72743
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 50.unity
+    guid: 966ddbe5c360342129afb781b1df8e94
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 51.unity
+    guid: c951019a15751450e9e8599a0528d66a
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 52.unity
+    guid: e396ca402ea2f4bafa4fecc09263b06f
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 53.unity
+    guid: 50abb8a9a273e43b39ec26c941e2ce0d
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 54.unity
+    guid: e1f65e2a0d4384b0899486f1a7ba1f68
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 55.unity
+    guid: bf6d76e3f287d445a98c153671e31bed
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 56.unity
+    guid: 2f79b09f1ceda46e5a67d442e53faaa7
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 57.unity
+    guid: b3f8888fc112b436aa17344c246088eb
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 58.unity
+    guid: fd645449da1554a24bab795b4dc5db22
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 59.unity
+    guid: 08e08f56c432145b095639bf971f6e5a
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 60.unity
+    guid: 10e02d7f41c2e4f5eb5406a55a736756
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 61.unity
+    guid: 398b0e709c72a4ce192af0a7bb973053
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 62.unity
+    guid: 10a9c4d80d1aa47ac92139eb2ed7c6cd
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 63.unity
+    guid: 010c2b67643ae42bd87fa91641fe2b78
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 64.unity
+    guid: 55658b75ca9094f13bba1f26fda72f60
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 65.unity
+    guid: 3ee6b7ce5c00c4656a1e80e563900e38
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 66.unity
+    guid: a8840a71d10fa4c6e8b72e797274e4e3
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 67.unity
+    guid: 3c0c798ac6b18414d98296ab0153ee64
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 68.unity
+    guid: 832b6175401df4cd2b69e68ebc44db72
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 69.unity
+    guid: 8f5f87de85b3d4bdcb6f862fbd21a8d4
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 70.unity
+    guid: 18b14dfc38e044b58b54f3233504f364
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 71.unity
+    guid: 621bab8ea76a04c309e5d52074ab0fc9
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 72.unity
+    guid: 0e4f0c20112ef4ee697a168268460db2
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 73.unity
+    guid: 6876c34fdd4574dba8d76b1d16fa0eee
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 74.unity
+    guid: 5dd6c9808ddab4235b821170a323fcf3
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 75.unity
+    guid: 5ba737fe6293b4b70b3b040ff5c97caf
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 76.unity
+    guid: d017a203edc0749e4833dc35ba6bd704
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 77.unity
+    guid: 60c98f9823bb14c1d817107578b73760
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 78.unity
+    guid: 93547169c1ba54392bb51f4d0d874ece
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 79.unity
+    guid: b5949a788ff9a421c800e303d1def8c6
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 80.unity
+    guid: 7a6e6c7bc5793425cba5391668cbc8a4
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 81.unity
+    guid: ac39ddfddc0d948b2a3a52e94b4990cb
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 82.unity
+    guid: 923263db9b1d94fedaff66b858222154
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 83.unity
+    guid: c03aaa33831384cfd88d63df51d1032d
+  - enabled: 1
+    path: Assets/Scenes/livelli/Level 84.unity
+    guid: 6d7b9551cc08b4f77b5e1095ba054fda
+  - enabled: 1
+    path: Assets/Scenes/livelli speciali/Special Level 85.unity
+    guid: bd51c32d3f0064ebd9c58b83cefa63e1
+  m_configObjects: {}

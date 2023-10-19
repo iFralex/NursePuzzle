@@ -1,0 +1,136 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/alessioantonucci/baker e medicinali
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49580
+Successfully changed project path to: /Users/alessioantonucci/baker e medicinali
+/Users/alessioantonucci/baker e medicinali
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/alessioantonucci/baker e medicinali/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-04 07:40:01.983 Unity[1075:23061] iMac preferred device: AMD Radeon Pro 580X (high power)
+2021-05-04 07:40:01.983 Unity[1075:23061] Metal devices available: 1
+2021-05-04 07:40:01.983 Unity[1075:23061] 0: AMD Radeon Pro 580X (high power)
+2021-05-04 07:40:01.984 Unity[1075:23061] Using device AMD Radeon Pro 580X (high power)
+Initializing Metal device caps: AMD Radeon Pro 580X
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56075
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.007358 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.027 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1935 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.9 MB.
+System memory in use after: 150.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 2360.
+Total: 2.241782 ms (FindLiveObjects: 0.216405 ms CreateObjectMapping: 0.081009 ms MarkObjects: 1.892444 ms  DeleteObjects: 0.051198 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/luckiestguy.ttf
+  artifactKey: Guid(f3afc77ae09924349a29b5bc6acaf344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/luckiestguy.ttf using Guid(f3afc77ae09924349a29b5bc6acaf344) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7ec27e046ff4e7d5a18ce8788fdfaaf') in 1.819242 seconds
+  Import took 1.823654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/icona audio.png
+  artifactKey: Guid(287b1623a04d84bd0873ddb5b407edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/icona audio.png using Guid(287b1623a04d84bd0873ddb5b407edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efd4d8c57abbe1e2d980f106e213aae') in 0.754792 seconds
+  Import took 0.758145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/icona indietro.png
+  artifactKey: Guid(9fe98b9147c66438bb7bbc8a846edf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/icona indietro.png using Guid(9fe98b9147c66438bb7bbc8a846edf59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320e0c1deb73c3048507c519031484d9') in 0.007773 seconds
+  Import took 0.010473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/musica livello.wav
+  artifactKey: Guid(c3b6826953e984bdb873e877ad06c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/musica livello.wav using Guid(c3b6826953e984bdb873e877ad06c284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2cf9007d6da6cfe3843648568b24619') in 0.832747 seconds
+  Import took 0.835895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/icona audio mutato.png
+  artifactKey: Guid(9f7ff83cf331145e597a76f5481e451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/icona audio mutato.png using Guid(9f7ff83cf331145e597a76f5481e451e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '274219b1d02daee82eb1b3c29d49e427') in 0.007558 seconds
+  Import took 0.010450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/musica bonus.wav
+  artifactKey: Guid(bc6e2763031c64f32b048092c953cd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/musica bonus.wav using Guid(bc6e2763031c64f32b048092c953cd4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f092fd99802be8b0e4b3c1e10dcd13a') in 0.006659 seconds
+  Import took 0.009340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/battito.png
+  artifactKey: Guid(6fe4ca4a6b07a4cecbc84baae28a8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/battito.png using Guid(6fe4ca4a6b07a4cecbc84baae28a8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef4190ef67cd07745db275cff44e8b0') in 0.008004 seconds
+  Import took 0.011035 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 37 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.0 MB.
+System memory in use after: 130.1 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2408.
+Total: 3.335594 ms (FindLiveObjects: 0.240676 ms CreateObjectMapping: 0.092604 ms MarkObjects: 2.982267 ms  DeleteObjects: 0.019067 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
